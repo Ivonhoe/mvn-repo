@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ivonhoe.java.heapanalyzer</groupId>
+  <artifactId>bitmap-analyzer</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170327.112600</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170327112600</lastUpdated>
+  </versioning>
+</metadata>

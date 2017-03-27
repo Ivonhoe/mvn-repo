@@ -2,12 +2,12 @@
 <metadata>
   <groupId>ivonhoe.gradle.dexguard</groupId>
   <artifactId>dexguard-gradle</artifactId>
+  <version>0.0.3-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.0.1-SNAPSHOT</version>
-      <version>0.0.2-SNAPSHOT</version>
-      <version>0.0.3-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20170316.084535</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20170316084535</lastUpdated>
   </versioning>
 </metadata>
